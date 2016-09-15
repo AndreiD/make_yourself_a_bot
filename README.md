@@ -8,7 +8,7 @@ Very easy to get started project with bots. In fact, I don't think there's an ea
 ### Step 1 :fire: What you need to know :fire:
 
 <ul>
-<li>a) some basic knowledge of Python + Flask  see here for getting started with python: https://medium.com/@AndroidAdvance/step-by-step-on-learning-python-programming-easiest-way-in-the-world-8b5a5b4741f7</li>
+<li>a) some basic knowledge of Python + Flask <br />  see here for getting started with python: https://medium.com/@AndroidAdvance/step-by-step-on-learning-python-programming-easiest-way-in-the-world-8b5a5b4741f7</li>
 <li>b) some basic knowledge of html/css + a little bit of javascript</li>
 <li>c) some basic knowledge of how IBM Watson Works.</li>
 </ul>
@@ -22,7 +22,7 @@ Clone the repo. see what's inside
 
 ### Step 3
 
-Create an account in ibm watson (the free one, no credit card needed). Optional: create an account into google firebase if you want to store the messages.
+Create an account in ibm watson (the free one, no credit card needed). Optional: create an account into google's Firebase if you want to store the messages. [I choose firebase because it's the easiest to work with for small ammounts of data]
 
 ### Step 4
 ???
@@ -35,7 +35,7 @@ Waiting for your suggestions/bug reports
 
 ### :+1: License
 
-Copyright 2016 - present AndroidAdvance.com
+Copyright 2016 - present cleverbots.net
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
