@@ -30,6 +30,8 @@ Create an account in ibm watson (the free one, no credit card needed). Optional:
 ### Step 5
 Profit
 
+## Please star this repository and fork it :) Thank you. It's the least you can do for my work that is free.
+
 ## :alien: TODO List
 Waiting for your suggestions/bug reports
 
