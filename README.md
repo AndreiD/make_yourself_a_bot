@@ -1,2 +1,49 @@
-# make_yourself_a_bot
+# :alien: Make Yourself a Bot :alien:
 make yourself a chat bot. (private web mode)
+
+Very easy to get started project with bots. In fact, I don't think there's an easier way.
+
+## Test it here:  http://cleverbots.net/  http://cleverbots.net:1000/
+
+### Step 1 :fire: What you need to know :fire:
+
+a) some basic knowledge of Python + Flask  see here for getting started with python: https://medium.com/@AndroidAdvance/step-by-step-on-learning-python-programming-easiest-way-in-the-world-8b5a5b4741f7
+b) some basic knowledge of html/css + a little bit of javascript
+c) some basic knowledge of how IBM Watson Works.
+
+:fire: Without the things that are listed above you won't be able to do anything with this code.
+In case you get stuck, it means your basic knowledge about X is ... sub - basic. Invest more time into learning the basics or ask some help from friends (not here on github, because I don't have time to learn you something that you can easily find on net, youtube etc...)
+
+
+### Step 2
+
+Clone the repo. see what's inside
+
+### Step 3
+
+Create an account in ibm watson (the free one, no credit card needed). Optional: create an account into google firebase if you want to store the messages.
+
+### Step 4
+???
+
+### Step 5
+Profit
+
+## :alien: TODO List
+Waiting for your suggestions/bug reports
+
+### :+1: License
+
+Copyright 2016 - present AndroidAdvance.com
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
