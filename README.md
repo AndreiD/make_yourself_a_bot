@@ -7,10 +7,11 @@ Very easy to get started project with bots. In fact, I don't think there's an ea
 
 ### Step 1 :fire: What you need to know :fire:
 
-a) some basic knowledge of Python + Flask  see here for getting started with python: https://medium.com/@AndroidAdvance/step-by-step-on-learning-python-programming-easiest-way-in-the-world-8b5a5b4741f7
-b) some basic knowledge of html/css + a little bit of javascript
-c) some basic knowledge of how IBM Watson Works.
-
+<ul>
+<li>a) some basic knowledge of Python + Flask  see here for getting started with python: https://medium.com/@AndroidAdvance/step-by-step-on-learning-python-programming-easiest-way-in-the-world-8b5a5b4741f7</li>
+<li>b) some basic knowledge of html/css + a little bit of javascript</li>
+<li>c) some basic knowledge of how IBM Watson Works.</li>
+</ul>
 :fire: Without the things that are listed above you won't be able to do anything with this code.
 In case you get stuck, it means your basic knowledge about X is ... sub - basic. Invest more time into learning the basics or ask some help from friends (not here on github, because I don't have time to learn you something that you can easily find on net, youtube etc...)
 
