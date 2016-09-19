@@ -3,7 +3,7 @@ make yourself a chat bot. (private web mode)
 
 Very easy to get started project with bots. In fact, I don't think there's an easier way.
 
-## Test it here:  http://cleverbots.net/  http://cleverbots.net:1000/
+## Test it here:  https://cleverbots.net/  https://resume1.cleverbots.net
 
 ### Step 1 :fire: What you need to know :fire:
 
@@ -11,10 +11,14 @@ Very easy to get started project with bots. In fact, I don't think there's an ea
 <li>a) some basic knowledge of Python + Flask <br />  see here for getting started with python: https://medium.com/@AndroidAdvance/step-by-step-on-learning-python-programming-easiest-way-in-the-world-8b5a5b4741f7</li>
 <li>b) some basic knowledge of html/css + a little bit of javascript</li>
 <li>c) some basic knowledge of how IBM Watson Works.</li>
+<li>e) you should know the difference between http and https</li>
 </ul>
+
 :fire: Without the things that are listed above you won't be able to do anything with this code.
 In case you get stuck, it means your basic knowledge about X is ... sub - basic. Invest more time into learning the basics or ask some help from friends (not here on github, because I don't have time to learn you something that you can easily find on net, youtube etc...)
 
+#### For someone with NO programming experience, this is 2-3 months of work. For someone with some experience this is ~1 week. For someone with good exp. this is 1-2 days. I can't think of a faster way, except if you follow the tutorials monkey see - monkey copy - paste withouut
+understanding anything.
 
 ### Step 2
 
