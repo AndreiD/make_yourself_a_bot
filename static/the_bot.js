@@ -93,7 +93,7 @@ var BuildHTML = function () {
 $(document).ready(function () {
 
     var namespace = '/chat';
-    var socket = io.connect('http://' + document.domain + ':' + location.port + namespace);
+    var socket = io.connect('https://' + document.domain + ':' + location.port + namespace);
     socket.on('connect', function () {
 
         setTimeout(sendHeartbeat, 10000);
