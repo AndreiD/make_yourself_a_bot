@@ -17,8 +17,7 @@ Very easy to get started project with bots. In fact, I don't think there's an ea
 :fire: Without the things that are listed above you won't be able to do anything with this code.
 In case you get stuck, it means your basic knowledge about X is ... sub - basic. Invest more time into learning the basics or ask some help from friends (not here on github, because I don't have time to learn you something that you can easily find on net, youtube etc...)
 
-#### For someone with NO programming experience, this is 2-3 months of work. For someone with some experience this is ~1 week. For someone with good exp. this is 1-2 days. I can't think of a faster way, except if you follow the tutorials monkey see - monkey copy - paste withouut
-understanding anything.
+#### For someone with NO programming experience, this is 2-3 months of work. For someone with some experience this is ~1 week. For someone with good exp. this is 1-2 days. I can't think of a faster way, except if you follow the tutorials monkey see - monkey copypaste without understanding anything while you do it.
 
 ### Step 2
 
