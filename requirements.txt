@@ -28,7 +28,7 @@ httplib2==0.9.2
 humanize==0.5.1
 idna==2.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 jsonify==0.5
 jsonpatch==1.10
 jsonpointer==1.9
