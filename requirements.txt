@@ -64,7 +64,7 @@ python-systemd==231
 PyYAML==3.11
 requests==2.9.1
 requests-toolbelt==0.7.0
-rsa==3.4.2
+rsa==4.7
 sendgrid==2.2.1
 six==1.9.0
 smtpapi==0.3.1
